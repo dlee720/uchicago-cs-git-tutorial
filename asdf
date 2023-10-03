@@ -1,4 +1,4 @@
 $ cd
 $ mkdir git-tutorial
 $ cd git-tutorial
-touch README.md
+$ touch README.md
